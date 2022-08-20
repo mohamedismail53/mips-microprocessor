@@ -1,0 +1,5 @@
+vhdtdtfi -prj Mips_microprocessor -o "E:/programs/vhdl examples/Mips_microprocessor/OUTPUT.vhi" -module OUTPUT -template E:/programs/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work OUTPUT.vhd 
+vhdtdtfi -prj Mips_microprocessor -o "E:/programs/vhdl examples/Mips_microprocessor/OUTPUT.vhi" -module OUTPUT -template E:/programs/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work OUTPUT.vhd 
+vhdtdtfi -prj Mips_microprocessor -o "E:/programs/vhdl examples/Mips_microprocessor/OUTPUT.vhi" -module OUTPUT -template E:/programs/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work OUTPUT.vhd 
+vhdtdtfi -lib work OUTPUT.vhd -prj Mips_microprocessor -o OUTPUT.spl -module OUTPUT -template E:/programs/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 OUTPUT.spl {E:/programs/vhdl examples/Mips_microprocessor/OUTPUT.sym} 

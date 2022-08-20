@@ -1,0 +1,11 @@
+[Inputs]
+clk
+reset
+stackRead
+stackWrite
+=dataIn[31:0]=
+[Outputs]
+full_f
+empty_f
+=dataOut[31:0]=
+[BiDir]

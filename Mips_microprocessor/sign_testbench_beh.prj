@@ -1,0 +1,2 @@
+vhdl work "sign_test.vhd"
+vhdl work "sign_testbench.vhd"

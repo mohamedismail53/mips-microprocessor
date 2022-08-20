@@ -1,0 +1,2 @@
+vhdtdtfi -prj Mips_microprocessor -o "E:/programs/vhdl examples/Mips_microprocessor/instructionmemory.vhi" -module instructionmemory -template E:/programs/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work IR_MEMORY.vhd 
+vhdtdtfi -prj Mips_microprocessor -o "E:/programs/vhdl examples/Mips_microprocessor_f/instructionmemory.vhi" -module instructionmemory -template E:/programs/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work IR_MEMORY.vhd 

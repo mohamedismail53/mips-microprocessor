@@ -1,0 +1,3 @@
+vhdtdtfi -prj Mips_microprocessor -o "E:/programs/vhdl examples/Mips_microprocessor/REGFILE.vhi" -module REGFILE -template E:/programs/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Register_file.vhd 
+vhdtdtfi -prj Mips_microprocessor -o "E:/programs/vhdl examples/Mips_microprocessor/REGFILE.vhi" -module REGFILE -template E:/programs/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Register_file.vhd 
+vhdtdtfi -prj Mips_microprocessor -o "E:/programs/vhdl examples/Mips_microprocessor/REGFILE.vhi" -module REGFILE -template E:/programs/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Register_file.vhd 

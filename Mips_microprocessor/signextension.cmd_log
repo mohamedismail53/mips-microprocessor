@@ -1,0 +1,2 @@
+vhdtdtfi -prj Mips_microprocessor -o "E:/programs/vhdl examples/Mips_microprocessor/signextension.vhi" -module signextension -template E:/programs/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Signextended.vhd 
+vhdtdtfi -prj Mips_microprocessor -o "E:/programs/vhdl examples/Mips_microprocessor/signextension.vhi" -module signextension -template E:/programs/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Signextended.vhd 

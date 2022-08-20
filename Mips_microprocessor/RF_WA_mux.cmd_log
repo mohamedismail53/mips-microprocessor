@@ -1,0 +1,1 @@
+vhdtdtfi -prj Mips_microprocessor -o "E:/programs/vhdl examples/Mips_microprocessor/RF_WA_mux.vhi" -module RF_WA_mux -template E:/programs/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work RF_WA_mux.vhd 

@@ -1,0 +1,3 @@
+vhdtdtfi -prj Mips_microprocessor -o "E:/programs/vhdl examples/Mips_microprocessor/IN_RF_MUX.vhi" -module IN_RF_MUX -template E:/programs/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work IN_RF_MUX.vhd 
+vhdtdtfi -prj Mips_microprocessor -o "E:/programs/vhdl examples/Mips_microprocessor/IN_RF_MUX.vhi" -module IN_RF_MUX -template E:/programs/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work IN_RF_MUX.vhd 
+vhdtdtfi -prj Mips_microprocessor -o "E:/programs/vhdl examples/Mips_microprocessor/IN_RF_MUX.vhi" -module IN_RF_MUX -template E:/programs/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work IN_RF_MUX.vhd 

@@ -1,0 +1,8 @@
+[Inputs]
+clk
+reset
+OE
+=RS[31:0]=
+[Outputs]
+=M_OUT_signal[31:0]=
+[BiDir]

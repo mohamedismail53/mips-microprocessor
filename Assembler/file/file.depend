@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1584615511 source:c:\users\7ooda\desktop\file\main.c
+	<string.h>
+	<malloc.h>
+	<stdio.h>
+	<stdlib.h>
+
+1587870143 source:c:\users\7ooda\desktop\assembler\file\main.c
+	<string.h>
+	<malloc.h>
+	<stdio.h>
+	<stdlib.h>
+
+1588098778 source:e:\new folder\communication\second year\micro_project\assembler\file\main.c
+	<string.h>
+	<malloc.h>
+	<stdio.h>
+	<stdlib.h>
+

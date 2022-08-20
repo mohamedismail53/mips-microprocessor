@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/programs/vhdl examples/Mips_microprocessor_f/final_test_isim_beh.exe" -prj "E:/programs/vhdl examples/Mips_microprocessor_f/final_test_beh.prj" "work.final_test" 

@@ -1,0 +1,2 @@
+vhdl isim_temp "sign_test.vhd"
+vhdl isim_temp "sign_testbench.vhd"

@@ -1,0 +1,7 @@
+xst -intstyle ise -ifn "E:/programs/vhdl examples/Mips_microprocessor/Control_unit.xst" -ofn "E:/programs/vhdl examples/Mips_microprocessor/Control_unit.syr" 
+xst -intstyle ise -ifn "E:/programs/vhdl examples/Mips_microprocessor/Control_unit.xst" -ofn "E:/programs/vhdl examples/Mips_microprocessor/Control_unit.syr" 
+xst -intstyle ise -ifn "E:/programs/vhdl examples/Mips_microprocessor/Control_unit.xst" -ofn "E:/programs/vhdl examples/Mips_microprocessor/Control_unit.syr" 
+xst -intstyle ise -ifn "E:/programs/vhdl examples/Mips_microprocessor/Control_unit.xst" -ofn "E:/programs/vhdl examples/Mips_microprocessor/Control_unit.syr" 
+vhdtdtfi -prj Mips_microprocessor -o "E:/programs/vhdl examples/Mips_microprocessor/Control_unit.vhi" -module Control_unit -template E:/programs/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Control_unit.vhd 
+vhdtdtfi -lib work Control_unit.vhd -lib work CU_TEST.vhd -prj Mips_microprocessor -o Control_unit.spl -module Control_unit -template E:/programs/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 Control_unit.spl {E:/programs/vhdl examples/Mips_microprocessor/Control_unit.sym} 
